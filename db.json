@@ -1,0 +1,44 @@
+{
+	"restaurant": [
+		{
+			"id": 1,
+			"name": "Rumah Makan Sederhana",
+			"category": "Indonesia",
+			"image": "https://img.inews.co.id/media/600/files/inews_new/2022/05/28/rm_padang.jpg",
+			"rating": 4,
+			"price": 35000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": 2,
+			"name": "Sambal Bakar Indonesia",
+			"category": "Indonesia",
+			"image": "https://www.ruparupa.com/blog/wp-content/uploads/2022/11/tempat-makan-sambal-bakar.jpg",
+			"rating": 5,
+			"price": 15000,
+			"isOpen": false,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "3",
+			"name": "Signora Pasta",
+			"category": "Italia",
+			"image": "https://media-cdn.tripadvisor.com/media/photo-p/13/88/24/8e/photo1jpg.jpg",
+			"rating": 5,
+			"price": 100000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "3",
+			"name": "Depot Gang Djangkrik",
+			"category": "Indonesia",
+			"image": "https://loveindonesia.com/images/business/15/146880/thumb.jpg",
+			"rating": 5,
+			"price": 50000,
+			"isOpen": false,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		}
+	]
+}
