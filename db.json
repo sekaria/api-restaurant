@@ -35,9 +35,89 @@
 			"name": "Depot Gang Djangkrik",
 			"category": "Indonesia",
 			"image": "https://loveindonesia.com/images/business/15/146880/thumb.jpg",
-			"rating": 5,
+			"rating": 3,
 			"price": 50000,
 			"isOpen": false,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "5",
+			"name": "209 Dining",
+			"category": "Asia",
+			"image": "https://panoramicrestaurant.com/wp-content/uploads/2023/07/2TH08812-1-scaled.jpg",
+			"rating": 5,
+			"price": 400000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "6",
+			"name": "Chamas Brazilian Churrascaria",
+			"category": "Brazil",
+			"image": "https://media-cdn.tripadvisor.com/media/photo-s/14/26/75/c4/jakarta-restaurant-presents.jpg",
+			"rating": 4,
+			"price": 100000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "7",
+			"name": "Djaman Doeloe",
+			"category": "Indonesia",
+			"image": "https://media-cdn.tripadvisor.com/media/photo-s/14/26/75/c4/jakarta-restaurant-presents.jpg",
+			"rating": 4,
+			"price": 150000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "8",
+			"name": "Pavilion Restaurant",
+			"category": "Indonesia",
+			"image": "https://img.freepik.com/free-photo/restaurant-interior_1127-3394.jpg",
+			"rating": 4,
+			"price": 200000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "9",
+			"name": "Warteg Bu Marni",
+			"category": "Indonesia",
+			"image": "https://nibble-images.b-cdn.net/nibble/original_images/warteg-di-jakarta-01.jpg",
+			"rating": 3,
+			"price": 5000,
+			"isOpen": false,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "10",
+			"name": "Magnolia",
+			"category": "Brazil",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/RESTAURANT.jpg",
+			"rating": 3,
+			"price": 150000,
+			"isOpen": false,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "11",
+			"name": "Xiang Fu Hai Cuisine",
+			"category": "China",
+			"image": "https://c8.alamy.com/comp/MP0964/beautiful-traditional-chinese-restaurant-in-china-MP0964.jpg",
+			"rating": 3,
+			"price": 150000,
+			"isOpen": true,
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
+		},
+		{
+			"id": "12",
+			"name": "Mie Ayam Remajah",
+			"category": "Indoensia",
+			"image": "https://asset-2.tstatic.net/tribunjogjatravel/foto/bank/images/mie-ayam-2-ribu-2.jpg",
+			"rating": 5,
+			"price": 2000,
+			"isOpen": true,
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
 		}
 	]
