@@ -1,7 +1,7 @@
 {
 	"restaurant": [
 		{
-			"id": 1,
+			"id": "1",
 			"name": "Rumah Makan Sederhana",
 			"category": "Indonesia",
 			"image": "https://img.inews.co.id/media/600/files/inews_new/2022/05/28/rm_padang.jpg",
@@ -11,7 +11,7 @@
 			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero corrupti nulla tempore laudantium quae. Quidem ipsa deleniti totam odio, voluptate assumenda vitae aliquam quaerat!"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"name": "Sambal Bakar Indonesia",
 			"category": "Indonesia",
 			"image": "https://www.ruparupa.com/blog/wp-content/uploads/2022/11/tempat-makan-sambal-bakar.jpg",
